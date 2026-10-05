@@ -1,0 +1,8 @@
+/Users/nicolocaprioli/fetchx/build/CMakeFiles/fetchx.dir
+/Users/nicolocaprioli/fetchx/build/CMakeFiles/watchurl.dir
+/Users/nicolocaprioli/fetchx/build/CMakeFiles/edit_cache.dir
+/Users/nicolocaprioli/fetchx/build/CMakeFiles/rebuild_cache.dir
+/Users/nicolocaprioli/fetchx/build/CMakeFiles/list_install_components.dir
+/Users/nicolocaprioli/fetchx/build/CMakeFiles/install.dir
+/Users/nicolocaprioli/fetchx/build/CMakeFiles/install/local.dir
+/Users/nicolocaprioli/fetchx/build/CMakeFiles/install/strip.dir
